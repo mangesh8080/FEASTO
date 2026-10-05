@@ -1,0 +1,23 @@
+# Frontend dependencies
+Feasto-fe/node_modules/
+
+# Frontend build
+Feasto-fe/dist/
+Feasto-fe/build/
+
+# Backend build
+Feasto-be/target/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
